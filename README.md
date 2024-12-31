@@ -2,7 +2,7 @@
 I'm Intern Xu, a university student, software developer, and Minecraft server admin, looking to connect with mod developers worldwide.
 
 ## 中文
-我是Intern Xu，學生、軟體開發者、Minecraft伺服器管理員。希望與模組開發者進行交流。
+我是Intern，學生、軟體開發者、Minecraft伺服器管理員。希望與模組開發者進行交流。
 
 ## 日本語
 インタ・ジョです、学生で、ソフトウェア開発者、そしてMinecraftのサーバー管理者です。MOD開発者と交流したいです。
