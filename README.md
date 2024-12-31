@@ -12,5 +12,5 @@ I'm Intern Xu, a university student, software developer, and Minecraft server ad
   - I may not be able to reply immediately, but I will respond to all messages, except for casual chats.
 
 ## Social Channels
-- YouTube: [Intern_X](https://www.youtube.com/channel/UCGHMMRLykemTq5qnofgcUWg)
-- Bilibili: [生物科代表Intern](https://space.bilibili.com/437424767)
+- YouTube: [@Intern_X](https://www.youtube.com/channel/UCGHMMRLykemTq5qnofgcUWg)
+- Bilibili: [@生物科代表Intern](https://space.bilibili.com/437424767)
